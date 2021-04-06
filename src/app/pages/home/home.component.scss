@@ -1,0 +1,136 @@
+small {
+    color: #fff;
+  }
+  
+  input {
+    width: 60%;
+  }
+  
+  /* #sticky-footer {
+      bottom: 0;
+      position: absolute;
+      width: 100%;
+  }
+  #search-input {
+      margin-right: 0px;
+  } */
+  
+  /* .align-middle {
+      top: 40%;
+      width: 100%;
+  }
+  .label-center {
+      display: block;
+      text-align: center;
+  }
+  .margin-input {
+      width: 100%;
+  } */
+  
+  :root {
+    --width: #inputInstituicao.width;
+  }
+  
+  body, html {
+    height: 100%;
+  }
+  
+  .logomeio {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 7rem;
+  }
+  
+  .bg {
+    background-image: linear-gradient(to bottom, #1289f6, #00b2ee, #5ccfd3, #bbe4cf, #f6f8f2);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .bg2 {
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .list-group {
+    width: var(--width);
+  }
+  
+  .align-center {
+    text-align: center;
+  }
+  
+  .pb-4, .py-4 {
+    padding-bottom: 1rem!important;
+  }
+  
+  .pt-4, .py-4 {
+    padding-top: 1rem!important;
+  }
+  
+  .display-inline {
+    display: inline-flex;
+  }
+  
+  .col-10 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  
+  .col-2 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  
+  .list-group-item.list-group-item-action {
+    background-color: white;
+    border-color: #343a40;
+    border-width: 3px;
+    border-top: 0rem;
+    width: 60%;
+    border-bottom-width: 1px;
+    left: -1.3rem;
+  }
+  
+  
+  .list-group-item:hover {
+    background-color: #007BFF;
+    color: white;
+  }
+  
+  .list-group-item.list-group-item-action:last-of-type {
+    border-bottom-width: 3px;
+  }
+  
+  #espaco {
+    padding-top: 10rem;
+  }
+  
+  #titulo {
+    font-family: 'Bungee';
+    color: black;
+    text-shadow: 1px 2px 3px #666;
+  }
+  
+  #descricao {
+    text-shadow: 1px 2px 3px #666;
+  }
+  
+  .imageRight {
+    position: absolute;
+      bottom: 0;
+      right: 0;
+      right: 3%;
+  }
+  
+  .imageleft {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 40%;
+  }

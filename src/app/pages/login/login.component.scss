@@ -1,0 +1,40 @@
+.background {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+  }
+  
+  .btn-google {
+    color: white;
+    background-color: #ea4335;
+    border-radius: 25px;
+    width: auto;
+    margin: auto;
+    margin-bottom: 1rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .btn-facebook {
+    color: white;
+    background-color: #3b5998;
+    border-radius: 25px;
+    width: auto;
+    margin: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .card {
+    padding: 20px;
+    width: 35rem;
+    min-height: 93vh;
+    border: none;
+    background-image: linear-gradient(to bottom, #5e5e5e, #8a7582, #c38a8c, #e8ab80, #e3db7f);
+  }
+  
+  .card-title {
+    font-size: 3rem;
+  }
+  
+  #ou {
+    text-align: center;
+  }
